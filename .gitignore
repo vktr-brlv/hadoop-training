@@ -2,3 +2,6 @@
 .ssh/
 hadoop/
 .idea/
+*.gz
+*.rpm
+*.zip
